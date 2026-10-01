@@ -1,2 +1,2 @@
 # BMS225A Biostatistics and Computational Biology
-Beware of the dogs... 
+
